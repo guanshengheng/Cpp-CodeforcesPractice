@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\CODE\\GithubCode\\CfAtcSolution\\CfAtc-Training-Journey\\recruitment\\a.cpp","tests":[{"id":1766387948349,"input":"3\n1 1\n3 100\n3 10","output":"A C\nA C\nA B"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\GithubCode\\CfAtcSolution\\CfAtc-Training-Journey\\recruitment\\a.cpp","group":"local","local":true}
